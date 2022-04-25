@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: Verdana;
+}
+
+header{
+    color: #ffb64f;
+}
+
+.container{
+    margin-top: 30px;
+    margin: auto;
+    width: 50%;
+    border: 2px solid #fe3500;
+    padding: 30px;
+    background-color: #b7f1fd;
+}
+
+.div-img{
+    margin: auto;
+    width: 53%;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #fe3500;
+    background-color: #b7f1fd;
+}
+
